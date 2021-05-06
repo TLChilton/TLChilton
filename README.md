@@ -4,6 +4,7 @@
   - quality of life improving automation and scripting
 - 🌱 I’m currently learning ... 
   - Linux in my spare time and all that entails,
+  - Vim through the book Practical Vim, Second Edition
   - as well as pursuing my BS in Computer Science at Arizona State University
 - 💞️ I’m looking to collaborate on ...
   - tbd, but I have many interests
